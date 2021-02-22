@@ -18,5 +18,5 @@ Artificial Intelligence News
 ### See you later! Bye!
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <strong>Made with ❤ by AInews Team</strong>
