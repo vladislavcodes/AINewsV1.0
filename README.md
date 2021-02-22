@@ -2,7 +2,7 @@
 Artificial Intelligence News
 
 <a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/AInews.png" alt="AInews" width="60" height="60" style="max-width:100%;"> </a>©<br>
-<a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/AInews2.png" alt="AInews" width="60" height="60" style="max-width:100%;"> </a>© 
+<a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/AInews2.png" alt="AInews" width="60" height="60" style="max-width:100%;"> </a><span style="color:white">©</span>
 
 <strong>На Русском</strong>
 
