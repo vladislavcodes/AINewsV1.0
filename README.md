@@ -16,3 +16,6 @@ Artificial Intelligence News
 ### AInews is a blog created by two Russian college students as a kind of hobby. It will publish fresh articles from the AI world, as well as videos and other sources of information. 
 ### The project is under development...
 ### See you later! Bye!
+
+
+<strong>Made with ❤ by AInews Team</strong>
