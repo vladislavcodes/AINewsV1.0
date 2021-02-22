@@ -4,7 +4,7 @@ Artificial Intelligence News
 <a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/AInews.png" alt="AInews" width="80" height="80" style="max-width:100%;"> </a> 
 <a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/AInews2.png" alt="AInews" width="80" height="80" style="max-width:100%;"> </a> 
 
-<strong>На русском</strong>
+<strong>На Русском</strong>
 
 ### AInews - это блог созданный двумя студентами Российского колледжа, как некое хобби. В нем будут выпускаться свежие статьи из мира ИИ, а также видео и другие источники информации. 
 ### Проект находится в разработке...
