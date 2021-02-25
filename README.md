@@ -1,5 +1,5 @@
 # AINews 👋
-Artificial Intelligence News
+## Artificial Intelligence News
 
 <a href="https://vladislavcodes.github.io/AINewsV1.0/" rel="nofollow"> <img src="images/AInews.png" alt="AInews" width="70" height="80" style="max-width:100%;"> </a><br>
 <a href="https://vladislavcodes.github.io/AINewsV1.0/" rel="nofollow"> <img src="images/AInews2.png" alt="AInews" width="70" height="80" style="max-width:100%;"> </a>
