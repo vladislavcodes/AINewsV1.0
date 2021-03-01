@@ -1,5 +1,5 @@
 # DEV news 👋
-Artificial Intelligence News
+Developer News
 
 <a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/whiteDEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a>
 
