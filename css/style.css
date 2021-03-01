@@ -5,6 +5,12 @@ body {
 	height: 100vh;
 	background-color: #0D1117;
 }
+h1 {
+	margin: 0;
+	padding-bottom: 30px;;
+	text-align: center;
+	color: white;
+}
 .form { 
 width: 300px; 
 padding: 32px;
@@ -20,6 +26,11 @@ svg {
 	position: relative;
   	top: -15;
 }
+textarea {
+	width: 90%;
+    height: 200px;
+    resize: none;
+}
 .form_button { 
 position: relative;
 padding: 10px 20px; 
@@ -30,7 +41,7 @@ font-weight: bold;
 letter-spacing: 1px; 
 font-size: 16px; 
 color : #fff;   
-background-color: #0D6EFC; 
+background-color: #5353AF; 
 outline: none;   
 cursor: pointer;  
 transition: 0.3s; 
@@ -65,11 +76,11 @@ transition: 0.3s;
 color: white; 
 }
 .form_button:focus, .form_button:hover{ 
-background-color: #7EC6E6; 
+background-color: #9191C9; 
 } 
 .form_input:focus { 
-border-bottom: 1px solid #1a73a8; 
-} 
+border-bottom: 1px solid #5353AF;
+}
 .form_input:focus ~ .form_label { 
 top: -18px; 
 font-size:12px; 
