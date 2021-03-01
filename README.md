@@ -1,8 +1,8 @@
 # DEV news 👋
 Artificial Intelligence News
 
-<a href="https://github.com/Amadey2002/DEVnewsV1.0" rel="nofollow"> <img src="images/DEVnews.png" alt="AInews" width="70" height="80" style="max-width:100%;"> </a><br>
-<a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/whiteDEVnews2.png" alt="AInews" width="70" height="80" style="max-width:100%;"> </a>
+<a href="https://github.com/Amadey2002/DEVnewsV1.0" rel="nofollow"> <img src="images/DEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a><br>
+<a href="https://github.com/Amadey2002/AINewsV1.0" rel="nofollow"> <img src="images/whiteDEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a>
 
 <strong>На Русском</strong>
 
