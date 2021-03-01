@@ -5,14 +5,14 @@ Developer News
 
 <strong>На Русском</strong>
 
-### AInews - это блог созданный двумя студентами Российского колледжа, как некое хобби. В нем будут выпускаться свежие статьи из мира разработки, а также видео и другие источники информации. 
+### DEVnews - это блог созданный двумя студентами Российского колледжа, как некое хобби. В нем будут выпускаться свежие статьи из мира разработки, а также видео и другие источники информации. 
 ### Проект находится в разработке...
 ### Увидимся позже! Пока!
 ##
 
 <strong>On English</strong>
 
-### AInews is a blog created by two Russian college students as a kind of hobby. It will publish fresh articles from the DEV world, as well as videos and other sources of information. 
+### DEVnews is a blog created by two Russian college students as a kind of hobby. It will publish fresh articles from the DEV world, as well as videos and other sources of information. 
 ### The project is under development...
 ### See you later! Bye!
 
