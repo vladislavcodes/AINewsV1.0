@@ -14,19 +14,19 @@
 
           </a>
   <div class="form_group"> 
-    <input placeholder="Username" type="text" class="form_input" name='name'> <!-- pattern="[A-Za-z]*?\s*"  required-->
+    <input placeholder="Username" type="text" class="form_input" name='name' pattern="[A-Za-z]*?\s*"  required> 
     <label class="form_label"></label> 
   </div>
   <div class="form_group"> 
- <input placeholder="Email" type="text" class="form_input"  name='email'>     <!--pattern="[A-Za-z_.-]{1,}@[A-za-z_.-]{1,}[.][A-Za-z]{2,4}" required -->
+ <input placeholder="Email" type="text" class="form_input"  name='email' pattern="[A-Za-z_.-]{1,}@[A-za-z_.-]{1,}[.][A-Za-z]{2,4}" required>     
     <label class="form_label"></label> 
   </div> 
   <div class="form_group"> 
-     <input placeholder="Password" type="password" class="form_input" name='password'> <!--pattern="[a-zA-Z0-9]{8,12}"  required-->
+     <input placeholder="Password" type="password" class="form_input" name='password' pattern="[a-zA-Z0-9]{8,12}"  required> 
     <label class="form_label"></label> 
   </div> 
   <div class="form_group"> 
-     <input placeholder="Repeat Password" type="password" class="form_input" name='repeat password'> <!-- pattern="[a-zA-Z0-9]{8,12}" required -->
+     <input placeholder="Repeat Password" type="password" class="form_input" name='repeat password'  pattern="[a-zA-Z0-9]{8,12}" required>
     <label class="form_label"></label> 
   </div> 
   <button type="submit" value="Submit" class="form_button">SIGN IN</button>

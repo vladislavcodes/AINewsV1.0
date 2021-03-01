@@ -17,9 +17,9 @@
        break;
       }else{
         $resPass = false;
-        echo 'Введите пароль';
       }
     }
+
 
     while ($row = mysqli_fetch_row($resultPass)) {
       if(password_verify($password, $row[0])){
