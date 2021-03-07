@@ -25,6 +25,17 @@ h1 {
 	position: relative;
 	text-align: center;
 }
+span {
+	animation: wink .4s 3 ease-in-out;
+    	animation-duration: 0.4s;
+    	animation-timing-function: ease-in-out;
+    	animation-delay: 0s;
+    	animation-iteration-count: 3;
+    	animation-direction: normal;
+    	animation-fill-mode: none;
+    	animation-play-state: running;
+    	animation-name: wink;
+}
 .greet {
 	color: #8F8F8F;
 	font-weight: normal;
