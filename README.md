@@ -1,5 +1,4 @@
-# Проект заморожен 🥶
-# Project is frozen 
+# Project is frozen 🥶
 
 ## DEV news 👋
 Developer News
