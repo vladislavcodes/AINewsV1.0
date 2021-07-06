@@ -1,4 +1,7 @@
-# DEV news 👋
+# Проект заморожен 🥶
+# Project is frozen 
+
+## DEV news 👋
 Developer News
 
 <a href="https://vladislavcodes.github.io/DEVNewsV1.0/" rel="nofollow"> <img src="images/whiteDEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a>
